@@ -12,12 +12,12 @@ The primary goals of this testing suite are to:
 - Provide comprehensive test coverage for API endpoints
 
 ## Features
-- 🔄 Integration Tests for multi-cloud operations
-- 🔐 Security Testing frameworks
-- ⚡ Performance Testing tools
-- 📊 Test Coverage Reports
-- 🔍 API Testing suite
-- 🚀 CI/CD Pipeline Integration
+- Integration Tests for multi-cloud operations
+- Security Testing frameworks
+- Performance Testing tools
+- Test Coverage Reports
+- API Testing suite
+- CI/CD Pipeline Integration
 
 ## Technology Stack
 - Testing Frameworks:
@@ -32,29 +32,10 @@ The primary goals of this testing suite are to:
   - Performance metrics visualization
 
 ## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alfie-tek/thetesting.git
-   cd thetesting
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Configure environment variables:
-   ```bash
-   cp .env.example .env
-   # Edit .env with your cloud provider credentials
-   ```
-
-4. Run tests:
-   ```bash
-   npm run test        # Unit tests
-   npm run test:e2e    # E2E tests
-   npm run test:perf   # Performance tests
-   ```
+1. Clone the repository
+2. Install dependencies
+3. Configure environment variables
+4. Run tests
 
 ## Project Structure
 ```
@@ -75,19 +56,10 @@ thetesting/
 - Continuous Integration practices
 
 ## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Project Link: [https://github.com/alfie-tek/thetesting](https://github.com/alfie-tek/thetesting)
-
-## Acknowledgments
-- MCP Documentation
-- Cloud Provider Testing Best Practices
-- Open Source Testing Communities
+Project Link: https://github.com/alfie-tek/thetesting
